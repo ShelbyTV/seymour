@@ -1,5 +1,5 @@
 module Seymour
-  class Videos
+  class VideoHelper
 
     WHITELISTED_ACTIONS = ['inserted', 'viewed', 'watched', 'finished', 'liked', 'shared']
 
